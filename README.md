@@ -1,5 +1,7 @@
 # 📈 Simulador de Investimentos em Fundos Imobiliários (FII)
 
+![header](https://github.com/devcaiada/excel-investment-simulator/blob/main/assets/header.png?raw=true)
+
 ## 🧠 Objetivo do Projeto
 
 Este projeto foi desenvolvido como parte do desafio da DIO com foco na aplicação prática do Microsoft Excel para Análise de Dados Financeiros. O objetivo central é criar uma **ferramenta de simulação de investimentos em fundos imobiliários (FIIs)** que permita ao usuário explorar cenários com base em parâmetros como:
@@ -79,16 +81,16 @@ Onde:
 
 ### Simulação preenchida
 
-![simulator]()
+![simulator](https://github.com/devcaiada/excel-investment-simulator/blob/main/assets/simulator.png?raw=true)
 
 ### Gráficos de evolução
 
-![chart]()
+![chart](https://github.com/devcaiada/excel-investment-simulator/blob/main/assets/chart.png?raw=true)
 
 
 ### Tabela de dividendos projetados
 
-![table]()
+![table](https://github.com/devcaiada/excel-investment-simulator/blob/main/assets/table.png?raw=true)
 
 ---
 
